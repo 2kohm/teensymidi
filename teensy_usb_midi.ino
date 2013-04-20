@@ -1,5 +1,5 @@
 //LDR to MIDI CC
-//Base on "little-scale´s" great code!!!! 
+//Based on "little-scale´s" great code!!!! 
 //http://little-scale.blogspot.de/2011/09/midi-with-teensy-light-controlled-pitch.html
 // code modifieyd by 2kohm stromakustik.de
 
